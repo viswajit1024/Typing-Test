@@ -76,7 +76,7 @@ export default function TypingTest() {
         <div className="max-w-4xl mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-4 mb-4 md:mb-0">
-              <p className="text-slate-600 text-sm">© 2024 TypeRace. Improve your typing skills.</p>
+              <p className="text-slate-600 text-sm">© 2025 TypeRace. Improve your typing skills.</p>
             </div>
             <div className="flex items-center space-x-6">
               <button className="text-slate-600 hover:text-slate-800 transition-colors text-sm">
